@@ -96,7 +96,7 @@
    
   }
  .bg{
-  background-color: #e03c36;
+  background-color: rgba(244, 0,0, 255);
   
  }
  .nav-link{

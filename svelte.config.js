@@ -9,7 +9,7 @@ const config = {
 		target: '#svelte',
 
 		paths: {
-
+			
 		},
 
 		adapter: adapter({
