@@ -73,6 +73,9 @@
         <li class="nav-item">
           <a href="{url}/contacto" class="nav-link active activo" on:click={collapseMenu}>Contacto</a>
         </li>
+        <li class="nav-item">
+          <a href="{url}/en" class="nav-link active activo" on:click={collapseMenu}><img class="bandera" src="{url}/img/English_language.svg" alt=""></a>
+        </li>
       </ul>
     </div>
   </div>
@@ -83,6 +86,10 @@
 
 
 <style>
+  .bandera{
+  width: 40px;
+  height: auto;
+}
   .imagen-lo{
     width: 5em;
     height: auto;
